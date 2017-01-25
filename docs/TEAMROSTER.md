@@ -2,4 +2,7 @@
 
 [Home](README.md)  
 
-here's our roster page
+**Meghan Hannon**
+Front End Guru 
+bio tbd 
+
